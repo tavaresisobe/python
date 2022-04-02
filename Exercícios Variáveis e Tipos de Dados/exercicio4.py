@@ -10,4 +10,4 @@ print("a é maior que b:",maior)
 print("a é menor que b:",menor)
 print("a é igual que b:",igual)
 
-os.system("PAUSE")
+os.system("pause")
