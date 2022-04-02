@@ -8,4 +8,4 @@ frase = f"Você tem %d anos e a resposta é" % (idade)
 
 print (frase, pode_assistir)
 
-os.system("PAUSE")
+os.system("pause")
