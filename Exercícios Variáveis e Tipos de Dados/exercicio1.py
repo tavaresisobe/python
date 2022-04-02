@@ -11,4 +11,4 @@ media = (nota1 + nota2 + nota3 + nota4) / 4
 
 print ("O aluno " + nome + " ficou com a média", media)
 
-os.system("PAUSE")
+os.system("pause")
