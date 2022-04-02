@@ -6,4 +6,4 @@ frase = f"A frase digitada possui %d caracteres" % cont
 
 print (frase)
 
-os.system("PAUSE")
+os.system("pause")
