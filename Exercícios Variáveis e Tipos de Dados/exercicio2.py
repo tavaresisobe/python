@@ -7,4 +7,4 @@ frase = f"O valor da compra foi de %f, o número de parcelas informado foi %d e 
 
 print (frase)
 
-os.system("PAUSE")
+os.system("pause")
